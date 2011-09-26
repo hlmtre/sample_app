@@ -1,0 +1,2 @@
+9/26
+tutorial states that stylesheets should go in public/stylesheets; rails server reports routing errors there. placing blueprint into app/assets/stylesheets fixed the issues.
